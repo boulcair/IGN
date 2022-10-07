@@ -28,8 +28,6 @@
       lang=	"en">
 
 <head>
-	
-<title>Email</title>
 
 </head>
 
