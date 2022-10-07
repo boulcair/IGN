@@ -33,12 +33,8 @@
 
 <body>
 
-<a	 href=	"	 https://github-readme-stats.vercel.app/api?username=boulcair&show_icons=true" target="_blank" >
- <img	 style= "display: inline-block;"
-	 height="25"
-	 src=	"	 https://github-readme-stats.vercel.app/api?username=boulcair&show_icons=true
+ <a img	 src=	"	 https://github-readme-stats.vercel.app/api?username=boulcair&show_icons=true
 	        "/>
 
-</a>
 </body>
 </html>
