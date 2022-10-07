@@ -1,1 +1,46 @@
-v(https://github.com/boulcair/github-readme-stats)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boulcair)]
+<!--
+   JSigmail.html
+   
+   Copyright 2021  <pi@raspberrypi>
+   
+   This program is free software; you can redistribute it and/or modify
+   it under the terms of the GNU General Public License as published by
+   the Free Software Foundation; either version 2 of the License, or
+   (at your option) any later version.
+   
+   This program is distributed in the hope that it will be useful,
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+   GNU General Public License for more details.
+   
+   You should have received a copy of the GNU General Public License
+   along with this program; if not, write to the Free Software
+   Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
+   MA 02110-1301, USA.
+   
+   
+-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="	http://www.w3.org/1999/xhtml" 
+      xml:lang=	"en" 
+      lang=	"en">
+
+<head>
+	
+<title>Email</title>
+
+</head>
+
+<body>
+
+<a	 href=	"	 https://github-readme-stats.vercel.app/api?username=boulcair&show_icons=true" target="_blank" >
+ <img	 style= "display: inline-block;"
+	 height="25"
+	 src=	"	 https://github-readme-stats.vercel.app/api?username=boulcair&show_icons=true
+	        "/>
+
+</a>
+</body>
+</html>
